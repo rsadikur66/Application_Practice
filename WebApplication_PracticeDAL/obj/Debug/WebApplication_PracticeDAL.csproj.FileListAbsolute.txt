@@ -1,0 +1,4 @@
+D:\NET_PRACTICES\WEB_FORM\WebApplication_Practice\WebApplication_PracticeDAL\bin\WebApplication_PracticeDAL.dll
+D:\NET_PRACTICES\WEB_FORM\WebApplication_Practice\WebApplication_PracticeDAL\bin\WebApplication_PracticeDAL.pdb
+D:\NET_PRACTICES\WEB_FORM\WebApplication_Practice\WebApplication_PracticeDAL\obj\Debug\WebApplication_PracticeDAL.dll
+D:\NET_PRACTICES\WEB_FORM\WebApplication_Practice\WebApplication_PracticeDAL\obj\Debug\WebApplication_PracticeDAL.pdb
